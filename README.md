@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptrepanier
-- 👀 I’m interested in phython and CS50
-- 🌱 I’m currently learning CS50 and phython.
+- 👀 I’m interested in python and CS50
+- 🌱 I’m currently learning CS50 and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pmt@a1tech.com
 
